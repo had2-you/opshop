@@ -13,15 +13,15 @@
 
 ## 주요기능 소개
 
-|제목 셀1|제목 셀2|제목 셀3|제목 셀4|
+|로그인화면|<img width="131" alt="image" src="https://github.com/had2-you/opshop/assets/72385538/664f6876-a513-455a-ba24-65a7fa5787e5">|보이는 화면은 로그인 화면으로 **비회원으로 둘러보기**를 통해 회원가입 없이 이용할 수 있다.|
 |---|---|---|---|
-<img width="131" alt="image" src="https://github.com/had2-you/opshop/assets/72385538/664f6876-a513-455a-ba24-65a7fa5787e5">
+
 <img width="131" alt="image" src="https://github.com/had2-you/opshop/assets/72385538/70ee668f-25d6-4434-afad-8446bc9f4059">
 <img width="131" alt="image" src="https://github.com/had2-you/opshop/assets/72385538/11752066-3b27-40ab-a2f3-b248dadc9382">
 <img width="404" alt="image" src="https://github.com/had2-you/opshop/assets/72385538/87bd475b-1cc1-4e4d-9091-44131c450ae3">
 <img width="395" alt="image" src="https://github.com/had2-you/opshop/assets/72385538/5a026697-08b3-4aea-ba5b-25b9aacd9c60">
 
-|로그인화면|<img width="131" alt="image" src="https://github.com/had2-you/opshop/assets/72385538/cee7eb1d-b51f-4588-a26e-b55881708153">|보이는 화면은 로그인 화면으로 **비회원으로 둘러보기**를 통해 회원가입 없이 이용할 수 있다.|
+|로그인화면|<img width="131" alt="image" src="https://github.com/had2-you/opshop/assets/72385538/cee7eb1d-b51f-4588-a26e-b55881708153">||
 |:회원가입:|::|:회원가입 버튼을 누르면 보이는 화면으로, 간단한 개인정보를 입력하면 손쉽게 가입이 가능하다.:|
 |:메인화면:|::|:회원가입 후 로그인 혹은 비회원으로 둘러보기를 클릭하면 들어올 수 있는 메인화면으로 다양한 카테고리별로 상품을 볼 수 있다.:|
 |:검색화면:|::|:상단의 검색버튼을 클릭하면 볼 수 있는 화면으로 상품을 검색할 수 있는 기능을 제공한다.:|
