@@ -12,6 +12,9 @@
 
 
 ## 주요기능 소개
+
+|제목 셀1|제목 셀2|제목 셀3|제목 셀4|
+|---|---|---|---|
 <img width="131" alt="image" src="https://github.com/had2-you/opshop/assets/72385538/664f6876-a513-455a-ba24-65a7fa5787e5">
 <img width="131" alt="image" src="https://github.com/had2-you/opshop/assets/72385538/70ee668f-25d6-4434-afad-8446bc9f4059">
 <img width="131" alt="image" src="https://github.com/had2-you/opshop/assets/72385538/11752066-3b27-40ab-a2f3-b248dadc9382">
